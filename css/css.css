@@ -1,0 +1,116 @@
+body {
+  margin: 0%;
+  padding: 0%;
+  font-family: 'Courier New', Courier, monospace;
+  font-size: 20px;
+  user-select: none;
+}
+
+.titleStyle {
+  font-size: 30px;
+  text-align: center;
+  padding-top: 7%;
+}
+
+.dropdown-divider {
+  width: 500px;
+  margin: 0px auto;
+}
+
+.currency {
+  width: 670px;
+  padding: 3%;
+  opacity: 0.92;
+}
+
+.card-header {
+
+  opacity: 0.92;
+}
+
+.card-body {
+  background-color: transparent;
+  opacity: 0.92;
+}
+
+.container {
+  width: 100%;
+}
+
+.navbar {
+  padding: 0%;
+}
+
+.nav-link:hover {
+  background-color: burlywood;
+}
+
+.enterprise {
+  width: 50%;
+  position: absolute;
+  left: 370px;
+  top: 360px;
+}
+
+#home {
+  background-image: url("../images/bc1.jpeg");
+  background-size: cover;
+  height: 740px;
+}
+.bcopaction_4S{
+  margin-left: 4%;
+}
+#s_4S {
+  height: 740px;
+  background: url("../images/bc4.jpeg");
+  background-size: cover;
+}
+
+.s_4S {
+  width: 30%;
+  padding: 0%;
+  position: relative;
+  left: 520px;
+  top: 251px;
+}
+
+#s_repair {
+  height: 750px;
+  background: url("../images/bc9.jpg");
+  background-size: cover;
+}
+
+.s_repair {
+  width: 800px;
+  position: relative;
+  left: 200px;
+  top: 30px;
+}
+
+#other {
+  height: 750px;
+  background: url("../images/bc8.jpg");
+  background-size: cover;
+}
+
+.other {
+  position: relative;
+  left: 760px;
+  top: 100px;
+}
+.coop>img{
+  width:120px;
+   height:60px;
+}
+.photos {
+  border: 3px solid red;
+  width: 300px;
+  position: relative;
+  right: 300px;
+  top: 100px;
+}
+
+.coop>img {
+  margin-left: 4%;
+  margin-right: 4%;
+}
